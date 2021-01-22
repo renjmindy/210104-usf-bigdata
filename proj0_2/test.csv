@@ -1,0 +1,2 @@
+sale_id, transaction_date, product, price, payment_type, country
+1, 1/2/21 6:17, Product1, 1200, Visa, United Kingdom
